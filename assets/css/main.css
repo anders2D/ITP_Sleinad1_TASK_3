@@ -99,7 +99,11 @@ input, select, textarea {
 		}
 
 	body, input, select, textarea {
+<<<<<<< HEAD
 		color: #fff;
+=======
+		color: #09813b;
+>>>>>>> cbda915 (second change)
 		font-family: 'Source Sans Pro', sans-serif;
 		font-size: 15pt;
 		font-weight: 300 !important;
